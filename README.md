@@ -178,5 +178,4 @@ npm start
 [![Faiz Bastomi](https://github.com/FaizBastomi.png?size=100)](https://github.com/FaizBastomi) | [![Dehante](https://github.com/Dehanjing.png?size=100)](https://github.com/Dehanjing) | [![RzkyFdlh](https://github.com/Rizky878.png?size=100)](https://github.com/Rizky878) | [![ZeetsuShin](https://github.com/Zeetsushin.png?size=100)](https://github.com/Nurutomo)
 ----|----|----|----
 [Faiz Bastomi](https://github.com/FaizBastomi) | [Dehante](https://github.com/Dehanjing) | [RzkyFdlh](https://github.com/Rizky878) | [Zeetsu Shin](https://github.com/Zeetsushin)
-
  Thanks To | Thanks To | Creator | Recode
