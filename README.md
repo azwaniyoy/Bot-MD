@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Zeetsushin" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+<img src="https://avatars.githubusercontent.com/ZeetsuShin" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Zeetsu Shin</h1>
 
@@ -50,7 +50,7 @@ module.exports = {
 
 ## Contoh Options
 
-Contoh Command : [`./command/main/menu.js`](https://github.com/Zeetsushin/Bot-MD/blob/main/command/main/menu.js)<br />
+Contoh Command : [`./command/main/menu.js`](https://github.com/ZeetsuShin/Bot-MD/blob/main/command/main/menu.js)<br />
 
 ```js
 {
@@ -71,7 +71,7 @@ Contoh Command : [`./command/main/menu.js`](https://github.com/Zeetsushin/Bot-MD
 
 ## Config
 
-Isi semua yang dibutuhkan di file [`config.json`](https://github.com/Zeetsushin/Bot-MD/blob/main/config.json)<br />
+Isi semua yang dibutuhkan di file [`config.json`](https://github.com/ZeetsuShin/Bot-MD/blob/main/config.json)<br />
 
 ## Request atau report bug
 
@@ -87,7 +87,7 @@ Untuk request atau report bug bisa chat saya disini [Whatsapp](https://wa.me/628
 > pkg install git
 > pkg install ffmpeg && pkg install libwebp
 > pkg install nodejs
-> git clone --depth=1 https://github.com/Zeetsushin/Bot-MD/
+> git clone --depth=1 https://github.com/ZeetsuShin/Bot-MD/
 > cd Bot-MD
 > npm install --arch=x64 --platform=linux sharp
 > npm start
@@ -148,7 +148,7 @@ pacman -S libwebp
 
 ```bash
 # clone repo
-git clone --depth=1 https://github.com/Zeetsushin/Bot-MD
+git clone --depth=1 https://github.com/ZeetsuShin/Bot-MD
 
 # ubah posisi direktori kamu
 cd Bot-MD
@@ -175,7 +175,7 @@ npm start
 
 # Thanks To
 
-[![Faiz Bastomi](https://github.com/FaizBastomi.png?size=100)](https://github.com/FaizBastomi) | [![Dehante](https://github.com/Dehanjing.png?size=100)](https://github.com/Dehanjing) | [![RzkyFdlh](https://github.com/Rizky878.png?size=100)](https://github.com/Rizky878) | [![ZeetsuShin](https://github.com/Zeetsushin.png?size=100)](https://github.com/Nurutomo)
+[![Faiz Bastomi](https://github.com/FaizBastomi.png?size=100)](https://github.com/FaizBastomi) | [![Dehante](https://github.com/Dehanjing.png?size=100)](https://github.com/Dehanjing) | [![RzkyFdlh](https://github.com/Rizky878.png?size=100)](https://github.com/Rizky878) | [![ZeetsuShin](https://github.com/ZeetsuShin.png?size=100)](https://github.com/Nurutomo)
 ----|----|----|----
-[Faiz Bastomi](https://github.com/FaizBastomi) | [Dehante](https://github.com/Dehanjing) | [RzkyFdlh](https://github.com/Rizky878) | [Zeetsu Shin](https://github.com/Zeetsushin)
+[Faiz Bastomi](https://github.com/FaizBastomi) | [Dehante](https://github.com/Dehanjing) | [RzkyFdlh](https://github.com/Rizky878) | [Zeetsu Shin](https://github.com/ZeetsuShin)
  Thanks To | Thanks To | Creator | Recode
