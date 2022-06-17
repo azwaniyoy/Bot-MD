@@ -1,6 +1,8 @@
-<p align="center">Zeetsu Shin</p>
-<div align="center">
-<img src="https://uploader.caliph.my.id/file/3TaXvba6o6.jpgg" width="150" height="150" border="0" alt="PFFP">
+<p align="center">
+<img src="https://avatars.githubusercontent.com/Zeetsushin" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
+</p>
+<h1 align="center">Zeetsu Shin</h1>
+
 
 <br> Gunakan dengan risiko Anda sendiri!
 
