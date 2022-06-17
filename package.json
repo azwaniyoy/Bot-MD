@@ -72,7 +72,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rizky878/rzky-multidevice.git"
+    "url": "git+https://github.com/Zeetsushin/Bot-MD.git"
   },
   "keywords": [
     "bot-md",
@@ -85,7 +85,7 @@
     "WhatsApp"
   ],
   "bugs": {
-    "url": "https://github.com/Rizky878/rzky-multidevice/issues"
+    "url": "https://github.com/Zeetsushin/Bot-MD/issues"
   },
-  "homepage": "https://github.com/Rizky878/rzky-multidevice#readme"
+  "homepage": "https://github.com/Zeetsushin/Bot-MD#readme"
 }
