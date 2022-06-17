@@ -50,7 +50,7 @@ module.exports = {
 
 ## Contoh Options
 
-Contoh Command : [`./command/main/menu.js`](https://github.com/Zeetsushin/Bot-MD/blob/main/command/umum/help.js)<br />
+Contoh Command : [`./command/main/menu.js`](https://github.com/Zeetsushin/Bot-MD/blob/main/command/main/menu.js)<br />
 
 ```js
 {
