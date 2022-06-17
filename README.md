@@ -5,7 +5,7 @@
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-d6cc0f?style=for-the-badge&logo=javascript&logoColor=white)](https://javascript.com) [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 
-<a href="https://chat.whatsapp.com/Eu2L0PBS8Y5F1txvd0H2iQ"> <img src="https://img.shields.io/badge/whatsapp-Support_Group-blue?style=social&logo=whatsapp" alt="support" /></a>
+<a href="https://chat.whatsapp.com/HJonYuPOQk4DO6bmQ5Naru"> <img src="https://img.shields.io/badge/whatsapp-Support_Group-blue?style=social&logo=whatsapp" alt="support" /></a>
 
 > Dibuat dengan Baileys dan Map() ( sebagai command handler ) <br />
 
@@ -175,8 +175,8 @@ npm start
 
 # Thanks To
 
--   [`Faiz Bastomi`](https://github.com/FaizBastomi)
--   [`Dehante`](https://github.com/Dehanjing)
--   [`RzkyFdlh`](https://github.com/Rizky878)
--   [`Senkuu`](https://github.com/SenkuXZ)
--   [`ZeetsuShin`](https://github.com/Zeetsushin)
+[![Faiz Bastomi](https://github.com/FaizBastomi.png?size=100)](https://github.com/FaizBastomi) | [![Dehante](https://github.com/Dehanjing.png?size=100)](https://github.com/Dehanjing) | [![RzkyFdlh](https://github.com/Rizky878.png?size=100)](https://github.com/Rizky878) | [![ZeetsuShin](https://github.com/Zeetsushin.png?size=100)](https://github.com/Nurutomo)
+----|----|----|----
+[Faiz Bastomi](https://github.com/FaizBastomi) | [Dehante](https://github.com/Dehanjing) | [RzkyFdlh](https://github.com/Rizky878) | [Zeetsu Shin](https://github.com/Zeetsushin)
+
+ Thanks To | Thanks To | Creator | Recode
