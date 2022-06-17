@@ -4,7 +4,6 @@ module.exports = {
   category: "main",
   desc: ['Melihat informasi dari Command', '.help <Command>'],
   async run({msg, conn},{args,q,map}) {
-      const data = [];
 			const name = q.toLowerCase();
 			const { command, prefix } = map;
 			const cmd = command.get(name) || [...command.values()].find((x) => x.alias.find((x) => x == args[0]));
