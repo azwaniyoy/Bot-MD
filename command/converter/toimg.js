@@ -8,7 +8,7 @@ module.exports = {
   category: "converter",
   desc: "Mengubah sticker menjadi gambar",
   isSpam: true,
-  async run({msg,conn}){
+  async run({msg,conn, m}){
     if(msg.quoted && /sticker/.test(msg.quoted.mtype) && !msg.quoted.text.isAnimated){
       let img = await msg.quoted.download()
       await conn.sendMessage(msg.from, { image: img, jpegThumbnail: img }, { quoted: msg, adReply:true })
@@ -16,7 +16,7 @@ module.exports = {
       await msg.reply("_Tunggu sebentar.._")
       let img = await msg.quoted.download()
       let out = await webpToVideo(img)
-      await conn.sendMessage(msg.from, { video: out, gifPlayback: /gif/i.test(msg.message.text), gifAttribution: ~~(Math.random() * 2) }, { quoted: msg })
+      await conn.sendMessage(msg.from, { video: out, gifPlayback: /gif/i.test(m.text), gifAttribution: ~~(Math.random() * 2) }, { quoted: msg })
     } else throw "Reply sticker nya"
   }
 }
