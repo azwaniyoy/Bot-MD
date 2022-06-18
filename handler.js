@@ -145,7 +145,7 @@ module.exports = handler = async (chatUpdate, conn, map) => {
 							showAdAttribution: true,
 							body: "",
 							thumbnail: await conn.getBuffer("https://uploader.caliph.my.id/file/swQsNdwwRi.jpg"),
-							sourceUrl: "https://chat.whatsapp.com/Eu2L0PBS8Y5F1txvd0H2iQ/",
+							sourceUrl: config.url,
 						},
 				  })
 				: "";
