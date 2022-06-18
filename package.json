@@ -29,6 +29,7 @@
     "form-data": "4.0.0",
     "fs": "0.0.1-security",
     "fs-extra": "^10.1.0",
+    "google-it": "^1.6.3",
     "human-readable": "0.2.1",
     "hxz-api": "^1.0.1",
     "ikyy": "latest",
